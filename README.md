@@ -1,4 +1,4 @@
-# Harsh Navin Gupta - guptaharshnavin  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-gupta-b24a93185/)
+# Harsh Navin Gupta - guptaharshnavin  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/harsh-n-gupta)
 I am a Data Science Statistics Intern working at Tutree Inc. I have previously worked as a Data Science Intern at Orci Care Inc. I have completed my Bachelors in Technology (BTech) in Computer Engineering from K.J. Somaiya College of Engineering (University of Mumbai). I am proficient in programming languages such as Java, Python and R, and I am also an Oracle Certified Associate Java Programmer. I have 6+ months work experience, and have completed numerous certifications (such as Udacity's Data Analytics Nanodegree) and implemented several projects to learn and explore the various aspects about Data Science and Machine Learning..
 
 ## Programming Languages Known
