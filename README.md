@@ -13,7 +13,8 @@ I am a Data Science Statistics Intern working at Tutree Inc. I have previously w
 ## Certifications Completed
 :one: Deep Learning Specialisation - deeplearning.ai<br>
 :two: Data Science Professional Certificate - HarvardX<br>
-:three: Machine Learning with Python - IBM<br>
-:four: SQL for Data Science - UC Davis<br>
-:five: R Programming Certification - Internshala<br>
-:six: Go Programming Certification - Programming Hub
+:three: Data Analytics Nanodegree - Udacity<br>
+:four: Machine Learning with Python - IBM<br>
+:five: SQL for Data Science - UC Davis<br>
+:six: R Programming Certification - Internshala<br>
+:seven: Go Programming Certification - Programming Hub
